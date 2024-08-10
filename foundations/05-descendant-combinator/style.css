@@ -1,0 +1,7 @@
+/* 3 ways to do this class selector -space- type selector ---- class selector -space- class selector ---- type selector -space- class selector */
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
